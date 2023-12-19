@@ -1,0 +1,31 @@
+Certainly! Here are a few-shot prompts in Azerbaijani along with answers:
+
+Q: Nizami Gəncəvi haqqında əsas məlumatları verin.
+A: Nizami Gəncəvi Azərbaycanın ən böyük şairlərindən biridir. Əsas əsərləri arasında "Xosrov və Şirin", "Leyli və Məcnun" və "Əskər-Nāme" yer alır.
+
+Q: Bakı tarixi haqqında qısa məlumat verin.
+A: Bakı Azərbaycanın paytaxtı və ən böyük şəhəridir. Şəhər, zəngin tarixi və memarlıq baxımından zəngindir.
+
+Q: Azərbaycanın məşhur milli yeməkləri hansılardır?
+A: Azərbaycanın məşhur milli yeməkləri arasında plov, dolma, dushbara və lavash yer alır.
+
+Q: Azərbaycan respublikasının prezidenti kimdir?
+A: Azərbaycan Respublikasının prezidenti 2022-ci ildə İlham Əliyevdir.
+
+Q: Sumqayıt şəhəri haradasa yerləşir?
+A: Sumqayıt şəhəri Azərbaycanın şimal-qərbində, Bakıya yaxın bir əraziyə yerləşir.
+
+Q: Azərbaycanın rəsmi dil(ləri) hansılardır?
+A: Azərbaycanın rəsmi dili Azərbaycan dilidir.
+
+Q: İlham Əliyevin doğum tarixi nədir?
+A: İlham Əliyev 24 dekabr 1961-ci ildə anadan olub.
+
+Q: Azərbaycanın pul birimi hansıdır?
+A: Azərbaycanın pul birimi manatdır.
+
+Q: Azərbaycanın ən böyük gölü hansıdır?
+A: Azərbaycanın ən böyük gölü Göygöl gölüdür.
+
+Q: UNESCO-nun Azərbaycandakı dünya irsi obyektlərindən biri hansıdır?
+A: UNESCO-nun Azərbaycandakı dünya irsi obyektlərindən biri Şəki Sarayıdır.
