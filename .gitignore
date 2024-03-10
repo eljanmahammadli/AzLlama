@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 wikidump/text
 wikidump/wikiextractor
+*.txt
+*.parquet
