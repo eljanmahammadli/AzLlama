@@ -4,3 +4,5 @@ wikidump/text
 wikidump/wikiextractor
 *.txt
 *.parquet
+azGPT-LLaMA-tokenizer-perplexity/
+litgpt/
