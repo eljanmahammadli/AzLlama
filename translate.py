@@ -8,9 +8,12 @@ PROJECT_ID = environ.get("PROJECT_ID", "")
 assert PROJECT_ID
 PARENT = f"projects/{PROJECT_ID}"
 
+
 # Load the MRPC dataset from Hugging Face
 dataset = load_dataset("glue", "mrpc")
-train_data, validation_data, test_data = [dataset[split].to_list() for split in dataset.keys()]
+train_data, validation_data, test_data = [
+    dataset[split].to_list() for split in dataset.keys()
+]
 
 
 def translate_sentence_googlecloud(
@@ -49,7 +52,9 @@ def translate_split(split):
 # translated parallely accross `num_processes` cpus
 def translate_split_parallel(split, num_processes=6):
     with Pool(num_processes) as pool:
-        translated_split = list(tqdm.tqdm(pool.imap(translate_example, split), total=len(split)))
+        translated_split = list(
+            tqdm.tqdm(pool.imap(translate_example, split), total=len(split))
+        )
     return translated_split
 
 
