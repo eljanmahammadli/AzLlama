@@ -6,3 +6,16 @@ wikidump/wikiextractor
 *.parquet
 azGPT-LLaMA-tokenizer-perplexity/
 litgpt/
+*.klm
+*.csv
+*.tsv
+*.json
+*.pkl
+*.pt
+*.tsv
+*.bin
+*.model
+*.arrow
+*.jsonl
+bigscience-dataprep/preprocessing/training/01b_oscar_cleaning_and_filtering/deduplicate/outputs/en/examples.txt
+bigscience-dataprep/preprocessing/training/01b_oscar_cleaning_and_filtering/deduplicate/outputs/en/text.csv
