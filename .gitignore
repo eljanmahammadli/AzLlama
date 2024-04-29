@@ -1,5 +1,7 @@
 .DS_Store
+*.key
 .ipynb_checkpoints/
+anlat.ipynb
 wikidump/text
 wikidump/wikiextractor
 *.txt
@@ -19,3 +21,8 @@ litgpt/
 *.jsonl
 bigscience-dataprep/preprocessing/training/01b_oscar_cleaning_and_filtering/deduplicate/outputs/en/examples.txt
 bigscience-dataprep/preprocessing/training/01b_oscar_cleaning_and_filtering/deduplicate/outputs/en/text.csv
+
+*.pdf
+*.pages
+*.docx
+*.xlsx

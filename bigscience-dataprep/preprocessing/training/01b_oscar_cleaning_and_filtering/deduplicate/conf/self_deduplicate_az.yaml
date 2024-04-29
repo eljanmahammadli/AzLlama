@@ -8,7 +8,7 @@ text_column: "text" # column name for the text to be hashed
 index_column: "id" # column name for the index
 num_proc: 4 # number of processes to run when hashing
 load_dataset:
-  path: allmalab/azwiki
+  path: HF_PATH
   name: null
   split: train
   use_auth_token: false

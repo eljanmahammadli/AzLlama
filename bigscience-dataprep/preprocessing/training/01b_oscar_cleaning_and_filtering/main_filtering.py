@@ -169,7 +169,7 @@ if __name__ == "__main__":
 
 """
 python main_filtering.py \
-    --dataset_name allmalab/azwiki \
+    --dataset_name HF_PATH \
     --split train \
     --lang_dataset_id az \
     --path_fasttext_model /Users/eljan/Documents/azGPT/bigscience-dataprep/preprocessing/training/01b_oscar_cleaning_and_filtering/visualization/lid.176.bin \
