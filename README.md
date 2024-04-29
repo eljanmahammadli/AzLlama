@@ -1,2 +1,3 @@
-# azGPT
+# AzLlama
+Documentation soon...
 
