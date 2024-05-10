@@ -7,3 +7,4 @@ Documentation soon...
 - We have trained custom SentencePiece BPE tokenizer that is very good at Azerbaijani.
 - We have pre-trained 150M LLaMA-based generative (decoder-only transformer) on 3B tokens for 2-3 epochs.
 - We have also trained the SFT (Supervised Fine-Tuned) model to give it chatbot-like behavior.
+- We have evaluated based on custom metrics.
