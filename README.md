@@ -1,5 +1,6 @@
 # AzLlama
 Documentation soon...
+This needs a lot of rafactoring. No time for that yet :(
 
 ## Very briefly for now:
 - We have prepared one of the largest pre-training corpus of 3 billion tokens of training data in the Azerbaijani language.
